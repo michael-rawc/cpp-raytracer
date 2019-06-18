@@ -12,7 +12,7 @@ Then, run: renderImage
   
 Output image will be out.png
 
-## Changing parameters
+## Changing parameters:
 
 To change which object to use in the scene, set the constant objectChoice to either "CubeTop.obj", "lowpolybunny.obj", or "bunny.obj"
 
