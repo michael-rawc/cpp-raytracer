@@ -14,7 +14,7 @@
 
 using namespace std;
 
-const int SAMPLES = 2; // Value used to set how many subpixels to use for AA (SAMPLESxSAMPLES AA)
+const int SAMPLES = 4; // Value used to set how many subpixels to use for AA
 const int DEPTH = 2; // Value to define how deeply to calculate reflections and refractions
 const double REFRAC = 1.0; // Refractive index of environment 1 for ~air
 const int PIXELHEIGHT = 180, PIXELWIDTH = 240; // Ouput image size parameters
