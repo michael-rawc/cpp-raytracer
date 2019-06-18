@@ -8,7 +8,7 @@ Hardcoded values in most places.
 Will produce a png image with multiple differently coloured spheres and one loaded .obj mesh.
 
 ## To compile:
-First, navigate to cpp-raytracer main file.
+First, navigate to cpp-raytracer main folder.
 
 Then, execute: g++ src\renderImage.cpp src\lodepng.cpp -o renderImage
 
